@@ -1,0 +1,28 @@
+ ____ ____ ____ ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ ____ ____
+||C |||O |||M |||M |||E |||N |||T |||       |||U |||T |||I |||L |||I |||S |||E |||R ||
+||__|||__|||__|||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+                     ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ ____
+                    ||S |||O |||N |||       |||C |||L |||A |||V |||I |||E |||R ||
+                    ||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__|||__||
+                    |/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+           ____ ____ ____ ____ ____ _________ ____ ____ _________ ____ ____ ____ ____
+          ||C |||O |||M |||M |||E |||       |||U |||N |||       |||D |||I |||E |||U ||
+          ||__|||__|||__|||__|||__|||_______|||__|||__|||_______|||__|||__|||__|||__||
+          |/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|
+
+Bienvenue à cette formation qui va vous former pour mieux utiliser votre clavier. La
+formation est diivisée en plusieurs sections, en partant de l'éditeur de texte le plus
+générique jusqu'à l'éditeur de texte le plus spécifique.
+
+# Introduction
+Tout le monde sait que toutes les filles ont peur des souris. Et bien, c'est faux (et
+sexiste). La seule personne qui devrait avoir peur de la souris, c'est VOUS! La souris
+va ralentir votre efficacité car vous devez quitter le clavier pour aller la chercher,
+ce qui cause une perte de concentration. Aussi, il est facile de cliquer/sélectionner
+au mauvais endroit.
+
+# Table des matières
+1. Pratiquement partout (WordPad)
+2. Développeur de base (Visual Studio)
+3. Développeur avancé (Visual Studio Code)
